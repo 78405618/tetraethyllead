@@ -1,0 +1,27 @@
+# AI and search crawlers are welcome on public pages
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: Amazonbot
+User-agent: meta-externalagent
+User-agent: Bytespider
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Baiduspider
+User-agent: Sogou web spider
+User-agent: YisouSpider
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tetraethyllead.com/sitemap.xml
